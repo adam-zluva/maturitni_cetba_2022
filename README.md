@@ -11,7 +11,7 @@ Knížky, které je třeba vypracovat; dopište si sem ty, které máte na svém
 | Franz Kafka | Proměna | &check; |  |
 | Ernest Hemingway | Stařec a moře | [&check;](https://www.youtube.com/watch?v=VQstxS8sl-E&ab_channel=F%C3%A9nixProDabing) |  |
 | Douglas Adams | Stopařův průvodce galaxií (1. díl) | &check; | Třeba dodělat |
-| G. Orwell | Farma zvířat | [&check;](https://www.youtube.com/watch?v=5kVPz2_GEbc&ab_channel=TheTomasa11); | Třeba dodělat |
+| G. Orwell | Farma zvířat | [&check;](https://www.youtube.com/watch?v=5kVPz2_GEbc&ab_channel=TheTomasa11) | Třeba dodělat |
 | Karel Čapek | R. U. R. | [&check;](https://www.youtube.com/watch?v=ZkPqmM7Q0rk&ab_channel=Rossum%27sUniversalRobots) | &check; |
 | Karel Čapek | Bílá nemoc | &check; | &check; |
 | Vladislav Vančura | Rozmarné léto | &check; | |
