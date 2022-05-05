@@ -1,4 +1,4 @@
-# maturitni_cetba_2022
+# Maturtní četba
 
 Knížky, které je třeba vypracovat; dopište si sem ty, které máte na svém seznamu četby a nejsou již v seznamu
 
