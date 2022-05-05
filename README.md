@@ -25,6 +25,5 @@ Knížky, které je třeba vypracovat; dopište si sem ty, které máte na svém
 | Petr Bezruč | Slezské písně | &cross; |  |
 | Erich Maria Remarque | Na západní frontě klid | &check; | Třeba dodělat |
 | Jiří Wolker | Těžká hodina | &cross; | Třeba dodělat |
-| Václav Havel | Audience | &check; | Třeba dodělat |
 
 [Playlist shrnutí Na potítku](https://youtube.com/playlist?list=PLw0jt4j86rGk1U6ZAphqSvWtVFjxd_6VM)
