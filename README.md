@@ -30,7 +30,7 @@ Knížky, které je třeba vypracovat; dopište si sem ty, které máte na svém
 | Winston Groom             | Forrest Gump                       |                                               &check;                                                |                                         |
 | Moliére                   | Lakomec                            |                               [&check;](https://youtu.be/uJrdsO3G0RQ)                                |                 &check;                 |
 | Povídky                   | Edgar Allan Poe                    |                                                                                                      |                                         |
-| J. R. R. Tolkien          | Společenstvo prstenu               |                                               &check;                                                |                                         |
+| J. R. R. Tolkien          | Společenstvo Prstenu               |                                               &check;                                                |                 &check;                 |
 | Alexandr Solženicyn       | Jeden den Ivana Děnisoviče         |                                                                                                      |                                         |
 
 [Playlist shrnutí Na potítku](https://youtube.com/playlist?list=PLw0jt4j86rGk1U6ZAphqSvWtVFjxd_6VM)
