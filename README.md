@@ -9,7 +9,7 @@ Knížky, které je třeba vypracovat; dopište si sem ty, které máte na svém
 | K. H. Borovský | Tyrolské elegie | &cross; | &check; |
 | K. H. Borovský | Křest svatého Vladimíra | &cross; | &check; |
 | Franz Kafka | Proměna | &check; | &check; |
-| Ernest Hemingway | Stařec a moře | [&check;](https://www.youtube.com/watch?v=VQstxS8sl-E&ab_channel=F%C3%A9nixProDabing) |  |
+| Ernest Hemingway | Stařec a moře | [&check;](https://www.youtube.com/watch?v=VQstxS8sl-E&ab_channel=F%C3%A9nixProDabing) | &check; |
 | Douglas Adams | Stopařův průvodce galaxií (1. díl) | &check; | Třeba dodělat |
 | G. Orwell | Farma zvířat | [&check;](https://www.youtube.com/watch?v=5kVPz2_GEbc&ab_channel=TheTomasa11) | Třeba dodělat |
 | Karel Čapek | R. U. R. | [&check;](https://www.youtube.com/watch?v=ZkPqmM7Q0rk&ab_channel=Rossum%27sUniversalRobots) | &check; |
@@ -22,7 +22,7 @@ Knížky, které je třeba vypracovat; dopište si sem ty, které máte na svém
 | N. V. Gogol | Revizor | &check; | &check; |
 | Petr Šabach | Hovno hoří | 1/2 | |
 | Romain Rolland | Petr a Lucie | [&check;](https://www.youtube.com/watch?v=D7qdACG10d4&ab_channel=PatrikBolje%C5%A1%C3%ADk) | &check; |
-| Petr Bezruč | Slezské písně | &cross; |  |
+| Petr Bezruč | Slezské písně | &cross; | &check; |
 | Erich Maria Remarque | Na západní frontě klid | [&check;](https://www.youtube.com/watch?v=Yb7d_yA3SAk&ab_channel=Vlkous100) | &check; |
 | Jiří Wolker | Těžká hodina | &cross; | &check; |
 
